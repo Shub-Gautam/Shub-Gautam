@@ -24,6 +24,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][lang3]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][lang4]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][lang1]
+[<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />][lang5]
 
 
 [twitter]: https://twitter.com/shubhamgautam56
@@ -35,3 +36,4 @@
 [lang2]:https://www.mysql.com
 [lang3]:https://git-scm.com
 [lang4]:https://github.com
+  [lang5]:https://www.docker.com
