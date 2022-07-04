@@ -1,6 +1,7 @@
 <h1 align="center"> Hey there, I'm Shubham! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
+
 ### 👨‍🎓 I’m a Developer & a Student pursuing my Bachelors in Computer Science.
 
 
